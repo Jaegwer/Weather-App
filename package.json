@@ -1,0 +1,35 @@
+{
+  "name": "WeatherApp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "@fortawesome/free-brands-svg-icons": "^6.3.0",
+    "@fortawesome/free-regular-svg-icons": "^6.3.0",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/vue-fontawesome": "^2.0.10",
+    "@nuxtjs/axios": "^5.13.6",
+    "@trevoreyre/autocomplete-vue": "^2.4.1",
+    "bootstrap": "^4.6.1",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.19.3",
+    "lodash": "^4.17.21",
+    "nuxt": "^2.15.8",
+    "vue": "^2.6.14",
+    "vue-autosuggest": "^2.2.0",
+    "vue-browser-geolocation": "^1.8.0",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "vue-typeahead-bootstrap": "^2.12.0",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {
+    "video.js": "^8.0.4"
+  }
+}
