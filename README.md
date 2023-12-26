@@ -1,4 +1,5 @@
 # WeatherApp
+![image](https://github.com/Jaegwer/Weather-App/assets/88092083/9ce65644-78c3-4d3f-9b51-c21b6fd2593b)
 
 ## Build Setup
 
